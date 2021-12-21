@@ -601,7 +601,7 @@
                 "stations": [
                     {
                         "direction": "Westbound",
-                        "station": "HAMMERSMITH (DISTRICT)",
+                        "station": "HAMMERSMITH",
                         "distance_km": "0.68",
                         "running_time": "1.33",
                         "peak_running_time": "1.50",
@@ -633,7 +633,7 @@
                     },
                     {
                         "direction": "Outer",
-                        "station": "PADDINGTON (CIRCLE)",
+                        "station": "PADDINGTON",
                         "distance_km": "0.98",
                         "running_time": "1.63",
                         "peak_running_time": "2.45",
@@ -653,7 +653,7 @@
                     },
                     {
                         "direction": "Eastbound",
-                        "station": "PADDINGTON (Dis)",
+                        "station": "PADDINGTON",
                         "distance_km": "0.98",
                         "running_time": "1.63",
                         "peak_running_time": "2.45",
@@ -1157,7 +1157,7 @@
                     },
                     {
                         "direction": "Southbound",
-                        "station": "EUSTON (CITY)",
+                        "station": "EUSTON",
                         "distance_km": "1.71",
                         "running_time": "2.95",
                         "peak_running_time": "3.50",
@@ -2165,7 +2165,7 @@
                     },
                     {
                         "direction": "Westbound",
-                        "station": "PADDINGTON (H&C)",
+                        "station": "PADDINGTON",
                         "distance_km": "0.93",
                         "running_time": "2.08",
                         "peak_running_time": "2.00",
@@ -2177,7 +2177,7 @@
                 "stations": [
                     {
                         "direction": "Inner",
-                        "station": "PADDINGTON (CIRCLE)",
+                        "station": "PADDINGTON",
                         "distance_km": "0.82",
                         "running_time": "1.85",
                         "peak_running_time": "2.00",
@@ -2197,7 +2197,7 @@
                 "stations": [
                     {
                         "direction": "Westbound",
-                        "station": "PADDINGTON (CIRCLE)",
+                        "station": "PADDINGTON",
                         "distance_km": "0.82",
                         "running_time": "1.85",
                         "peak_running_time": "2.00",
@@ -2225,7 +2225,7 @@
                 "stations": [
                     {
                         "direction": "Southbound",
-                        "station": "KENNINGTON (CITY)",
+                        "station": "KENNINGTON",
                         "distance_km": "0.90",
                         "running_time": "2.03",
                         "peak_running_time": "3.00",
@@ -2653,7 +2653,7 @@
                     },
                     {
                         "direction": "Eastbound",
-                        "station": "BAKER STREET (METROPOLITAN)",
+                        "station": "BAKER STREET",
                         "distance_km": "3.38",
                         "running_time": "6.13",
                         "peak_running_time": "7.11",
@@ -2921,7 +2921,7 @@
                 "stations": [
                     {
                         "direction": "Westbound",
-                        "station": "BAKER STREET (MET)",
+                        "station": "BAKER STREET",
                         "distance_km": "0.92",
                         "running_time": "2.23",
                         "peak_running_time": "4.08",
@@ -2961,7 +2961,7 @@
                 "stations": [
                     {
                         "direction": "Inner",
-                        "station": "BAKER STREET (CIRCLE)",
+                        "station": "BAKER STREET",
                         "distance_km": "0.92",
                         "running_time": "1.57",
                         "peak_running_time": "2.90",
@@ -3136,11 +3136,7 @@
                         "inter_peak_running_time": "6.87"
                     }
                 ]
-            }
-        }
-    },
-    "HAMMERSMITH (DISTRICT)": {
-        "lines": {
+            },
             "District": {
                 "stations": [
                     {
@@ -4029,7 +4025,7 @@
                     },
                     {
                         "direction": "Northbound",
-                        "station": "EUSTON (CITY)",
+                        "station": "EUSTON",
                         "distance_km": "0.61",
                         "running_time": "1.33",
                         "peak_running_time": "1.68",
@@ -4929,7 +4925,7 @@
                 "stations": [
                     {
                         "direction": "Southbound",
-                        "station": "EUSTON (CX)",
+                        "station": "EUSTON",
                         "distance_km": "0.82",
                         "running_time": "1.52",
                         "peak_running_time": "2.00",
@@ -5393,7 +5389,7 @@
                     },
                     {
                         "direction": "Northbound",
-                        "station": "KENNINGTON (CITY)",
+                        "station": "KENNINGTON",
                         "distance_km": "0.82",
                         "running_time": "1.70",
                         "peak_running_time": "2.81",
@@ -5893,7 +5889,7 @@
                     },
                     {
                         "direction": "Eastbound",
-                        "station": "HAMMERSMITH (DISTRICT)",
+                        "station": "HAMMERSMITH",
                         "distance_km": "0.93",
                         "running_time": "1.85",
                         "peak_running_time": "2.00",
@@ -6065,7 +6061,7 @@
                 "stations": [
                     {
                         "direction": "Eastbound",
-                        "station": "PADDINGTON (H&C)",
+                        "station": "PADDINGTON",
                         "distance_km": "0.64",
                         "running_time": "1.52",
                         "peak_running_time": "2.00",
@@ -7617,7 +7613,7 @@
                     },
                     {
                         "direction": "Northbound",
-                        "station": "EUSTON (CX)",
+                        "station": "EUSTON",
                         "distance_km": "0.58",
                         "running_time": "1.18",
                         "peak_running_time": "1.50",
@@ -7709,7 +7705,7 @@
                 "stations": [
                     {
                         "direction": "Southbound",
-                        "station": "KENNINGTON (CX)",
+                        "station": "KENNINGTON",
                         "distance_km": "1.89",
                         "running_time": "2.97",
                         "peak_running_time": "3.96",
